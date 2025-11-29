@@ -124,13 +124,13 @@ module "cicd_group" {
 | Name | Version |
 |------|---------|
 | terraform | >= 1.3.0 |
-| gitlab | ~> 17.0 |
+| gitlab | ~> 18.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| gitlab | ~> 17.0 |
+| gitlab | ~> 18.0 |
 
 ## Inputs
 
